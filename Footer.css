@@ -1,0 +1,29 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    height: 290px;
+    color: white;
+    background-color: black;
+}
+.footer1{
+    color: white;
+    width: 400px;
+    margin-top: 35px;
+    margin-left: 50px;
+}
+.footer2{
+    position: relative;
+    right: 100px;
+
+}
+.Footer3{
+    position: relative;
+    right: 150px;
+}
+.footer4{
+    position: relative;
+    right: 150px;
+   
+}
+

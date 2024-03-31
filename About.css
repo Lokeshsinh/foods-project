@@ -1,0 +1,35 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    z-index: 80vh;
+}
+
+.wrapper1{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 650px;
+}
+.wrapper2{
+    margin-top: 50px;
+    margin-left: 170px;
+    width: 400px;
+    height: 540px;
+    background:url('lokeshpic2.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 60px;
+}
+
+
+#h8{
+    font-size: 50px;
+    color: white;
+}
+#p8{
+    color: white;
+    font-size: 20px;
+}
+#ip{
+    color: white;
+    font-size: 18px;
+}
